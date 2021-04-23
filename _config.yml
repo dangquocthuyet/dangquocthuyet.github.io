@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dang Quoc Thuyet / Senior Researcher"
+title                    : "Dang Quoc Thuyet"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Dang Quoc Thuyet"
+description              : &description "I am a senior researcher in the Institute of Research and Development, Taisei Rotec Corporation"
 url                      : https://dangquocthuyet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dangquocthuyet/dangquocthuyet.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dang Quoc Thuyet"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a senior researcher in the Institute of Research and Development, Taisei Rotec Corporation"
+  location         : "Saitama, Japan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Dang+Thuyet"
   googlescholar    : "https://scholar.google.co.jp/citations?user=jdDSP8QAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
