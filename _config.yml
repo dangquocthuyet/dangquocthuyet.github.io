@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "I am a senior researcher in the Institute of Research and Development, Taisei Rotec Corporation"
   location         : "Saitama, Japan"
-  employer         :
+  employer         : "Taisei Rotec Corporation"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Dang+Thuyet"
   googlescholar    : "https://scholar.google.co.jp/citations?user=jdDSP8QAAAAJ&hl=en"
-  email            :
+  email            : "dangquoc_thuyet@taiseirotec.co.jp "
   researchgate     : " https://www.researchgate.net/profile/Dang_Thuyet"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  researchmap      : "https://researchmap.jp/thuyet/?lang=english"
 
 # Reading Files
 include:
